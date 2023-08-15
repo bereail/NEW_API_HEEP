@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\toner_store.props" />
+</Project>
